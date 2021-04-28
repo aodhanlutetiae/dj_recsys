@@ -1,9 +1,10 @@
 # Investigating recommender systems:
+
 # reading list for data journalists, with notes
 
-—[BACK TO MAIN PAGE](https://aodhanlutetiae.github.io/dj_recsys/)
+*This reading list is slowly being commented since it gathers together very disparate readings. There are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need*
 
-This reading list is slowly being commented since it gathers together very disparate readings. There are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need.
+—[BACK TO MAIN PAGE](https://aodhanlutetiae.github.io/dj_recsys/)
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020-08, Vol.140, p.104175-104175
 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
@@ -63,8 +64,6 @@ Holmes, Dawn E., “Recommender systems”. Big Data. A very short introduction.
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The Extreme Right and Online Recommender Systems. Social science computer review. 2015-08, Vol.33 (4), p.459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
 [Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
-
-[Ricci, Francesco, Rokach, Lior and Shapira, Bracha. Recommender systems. Introduction and challenges](https://link.springer.com/chapter/10.1007%2F978-1-4899-7637-6_1#enumeration)
 
 [Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In: Ricci Francesco et al. (eds) Recommender Systems Handbook. Springer, 2015](https://doi.org/10.1007/978-1-4899-7637-6_1)
 
