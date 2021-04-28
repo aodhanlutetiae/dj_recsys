@@ -1,4 +1,4 @@
-# the algorithm beat: journalists looking inside machines
+# examples of journalists investigating machines
 
 *Journalistic investigations into what people are being served online*
 
