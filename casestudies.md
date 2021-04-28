@@ -1,4 +1,4 @@
-# the algorithm beat: journalists looking inside  machines
+# the algorithm beat: journalists looking inside  machines
 
 *A list, from oldest to most recent, of journalistic investigations into what people are being served*
 
