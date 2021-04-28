@@ -1,4 +1,4 @@
-# The algorithm beat. Story examples
+# the algorithm beat
 
 Angwin, Parris & Matu. What Facebook knows about you. Propublica. 2016
 https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you
