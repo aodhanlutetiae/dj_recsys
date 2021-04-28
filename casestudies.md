@@ -1,30 +1,29 @@
-# the algorithm beat:
-
-# how journalists are looking into black boxes
+# the algorithm beat: journalists looking inside  machines
 
 *A list, from oldest to most recent, of journalistic investigations into what people are being served*
 
-— [BACK TO MAIN PAGE](https://aodhanlutetiae.github.io/dj_recsys/)
-
 [Bayerischer Rundfunk. Objective or biased: on the questionable use of AI for job applications. 2021](https://web.br.de/interaktiv/ki-bewerbung/en/)
 
-[Yin, Leon et al. How we built a facebook inspector. The Markup. 2021](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)
+[Propublica. Machine bias (Ongoing series)](https://www.propublica.org/series/machine-bias/p1)
 
-[Yin, Leon & Jeffries, Adrianne. How we Investigated Google’s results. The Markup. 2020](How We Analyzed Google’s Search Results – The Markup)
+[Mattu, Surya, Yin, Leon, Waller, Angie &  Keegan, Jon. How we built a Facebook inspector. The Markup. 2021](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)
 
-[Yin, Leon et al. How We Examined Gmail’s Treatment of Political Emails. The Markup. 2020](https://themarkup.org/google-the-giant/2020/02/26/show-your-work-wheres-my-email)
+[Yin, Leon & Jeffries, Adrianne. How we Investigated Google’s results. The Markup. 2020](https://themarkup.org/google-the-giant/2020/07/28/how-we-analyzed-google-search-results-web-assay-parsing-tool)
 
-[BBC Data Unit & Milo Perrin. Cookies on council benefits pages. 2020](https://cornishstuff.com/2020/02/05/cookies-on-council-benefits-pages/ and BBC story. Method details here)
+[Yin, Leon, Jeffries, Adrianne & Mattu, Surya. How We Examined Gmail’s Treatment of Political Emails. The Markup. 2020](https://themarkup.org/google-the-giant/2020/02/26/show-your-work-wheres-my-email)
 
-Hill, Kashmir. People You May Know: A Controversial Facebook Feature's 10-Year History. 2018](https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959)
+[Ferguson, Sam, Khoo, Anna, Homer, Alex, Lynch, Paul, Sherlock, Pete. Cookies on council benefits pages. BBC Data Unit. 2020](https://www.bbc.co.uk/news/uk-50504621)
 
-[Openschufa. Open Schufa, 2018](https://openschufa.de/)
-[Donate your credit rating so the system can be investigated]
+[Hill, Kashmir. People You May Know: A Controversial Facebook Feature. 2018](https://gizmodo.com/people-you-may-know-a-controversial-facebook-features-1827981959)
 
-[WSJ. Blue Feed, Red Feed. See Liberal Facebook and Conservative Facebook, Side by Side. 2019](http://graphics.wsj.com/blue-feed-red-feed/)
+[Algorithm Watch & Open Knowledge Foundation Deutschland. OpenSCHUFA. 2018](https://openschufa.de/english/)
 
-[Angwin, Parris & Matu. What Facebook knows about you. Propublica. 2016](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
+[Wall Street Journal. Blue Feed, Red Feed. See Liberal Facebook and Conservative Facebook, Side by Side. 2019](http://graphics.wsj.com/blue-feed-red-feed/)
 
-[Propublica. Machine bias (series). 2016](Machine Bias — ProPublica)
+[Angwin, Julia, Parris Terry & Mattu, Surya. What Facebook knows about you. Propublica. 2016](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 
-[Lawson, Jeff & Shaw, Al. Message machine: reverse engineering the 2012 campaign. Propublica. 2014](https://projects.propublica.org/emails/)
+[Angwin, Julia, Larson, Jeff, Mattu, Surya & Kirchner, Lauren. Machine bias (article). Propublica. 2016](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+
+[Lawson, Jeff & Shaw, Al. Message machine: reverse engineering the 2012 campaign. Propublica. 2012-14](https://projects.propublica.org/emails/)
+
+— [BACK TO MAIN PAGE](https://aodhanlutetiae.github.io/dj_recsys/)
