@@ -4,6 +4,8 @@
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
+---
+
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020-08, Vol.140, p.104175-104175
 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 

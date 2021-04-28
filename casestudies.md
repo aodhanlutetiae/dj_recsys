@@ -4,6 +4,8 @@
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
+---
+
 [2021. Bayerischer Rundfunk. Objective or biased: on the questionable use of AI for job applications](https://web.br.de/interaktiv/ki-bewerbung/en/)
 
 [Ongoing series. Propublica. Machine bias](https://www.propublica.org/series/machine-bias/p1)
