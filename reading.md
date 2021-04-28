@@ -1,4 +1,4 @@
-##Investigating recommender systems: a general reading list for data journalists
+# Investigating recommender systems: a general reading list for data journalists
 
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020-08, Vol.140, p.104175-104175
