@@ -16,13 +16,15 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Chaslot, Guillaume. Algotransparency. Website](https://www.algotransparency.org/)
 
-[Chaslot, Guillaume. The toxic potential of YouTube’s feedback loop (CADE Tech Policy Workshop). 2020. Video. 27’](https://www.youtube.com/watch?v=Et2n0J0OeQ8&list=PLtmWHNX-gukK0HxaoW7a8ePhrd13KSQc4&index=4)
+[Chaslot, Guillaume. The toxic potential of YouTube’s feedback loop. 2020. Video. 27’](https://www.youtube.com/watch?v=Et2n0J0OeQ8&list=PLtmWHNX-gukK0HxaoW7a8ePhrd13KSQc4&index=4)
 
 [Chaslot, Guillaume. How algorithms can learn to discredit the media. Medium. 2018](https://guillaumechaslot.medium.com/how-algorithms-can-learn-to-discredit-the-media-d1360157c4fa)
 
-[Covington, Paul, Adams, Jay, Sargin, Emre. Deep Neural Networks for Youtube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+[Covington, Paul, Adams, Jay, Sargin, Emre. Deep Neural Networks for YouTube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
 [Diakopoulos, Nick. Investigating data platforms and algorithms. Data Journalism Handbook 2. 2021](https://datajournalism.com/read/handbook/two/investigating-data-platforms-and-algorithms/the-algorithms-beat-angles-and-methods-for-investigation)
+
+[Diakopoulos, Nicholas, Trielli, Daniel. How Journalists Can Systematically Critique Algorithms. Computation & Journalism Symposium 2020](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_14.pdf)
 
 [Diakopoulos, Nick. Algorithmic Accountability: On the investigation of black boxes. CJR. 2014](https://www.cjr.org/tow_center_reports/algorithmic_accountability_on_the_investigation_of_black_boxes.php)
 
@@ -48,7 +50,7 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
 
-[Lewis & McCormick. How an ex youtube insider investigated its secret algorithm. Guardian. 2018](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
+[Lewis & McCormick. How an ex YouTube insider investigated its secret algorithm. Guardian. 2018](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
 
 [Maheshwari. Sapna. On YouTube Kids, startling videos slip past filters. NY Times, 2017](https://www.nytimes.com/2017/11/04/business/media/youtube-kids-paw-patrol.html)
 
@@ -56,7 +58,7 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Milano, Silvia, Taddeo, Mariarosaria, Floridi, Luciano. Recommender systems and their ethical challenges. Oxford Internet Institute. 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378581)
 
-[Nadeem. Moin. How youtube recommends videos. Medium. 2018](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f)
+[Nadeem. Moin. How YouTube recommends videos. Medium. 2018](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f)
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
@@ -66,7 +68,7 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Rieder, Bernhard. YouTube data tools (1.22). 2015](https://tools.digitalmethods.net/netvizz/youtube/)
 
-Rogers, Richard. Youtube teardown. Doing Digital Methods. 2019, p. 249-59
+Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
 Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
@@ -78,4 +80,4 @@ Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender syst
 
 [The redirect method: a blueprint for bypassing extremism. Website](https://redirectmethod.org/)
 
-[Thomson, Clive. Youtube’s plot to silence conspiracy theories. Wired. 2020](https://www.wired.com/story/youtube-algorithm-silence-conspiracy-theories/)
+[Thomson, Clive. YouTube’s plot to silence conspiracy theories. Wired. 2020](https://www.wired.com/story/youtube-algorithm-silence-conspiracy-theories/)

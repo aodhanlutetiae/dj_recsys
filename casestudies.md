@@ -8,9 +8,11 @@
 
 [2021. Bayerischer Rundfunk. Objective or biased: on the questionable use of AI for job applications](https://web.br.de/interaktiv/ki-bewerbung/en/)
 
-[Ongoing. Propublica. Machine bias (series)](https://www.propublica.org/series/machine-bias/p1)
-
 [2021. Mattu, Surya, Yin, Leon, Waller, Angie &  Keegan, Jon. How we built a Facebook inspector. The Markup](https://themarkup.org/citizen-browser/2021/01/05/how-we-built-a-facebook-inspector)
+
+[Ongoing. Adobserver. Browser plugin](https://adobserver.org/)
+
+[Ongoing. Propublica. Machine bias (series)](https://www.propublica.org/series/machine-bias/p1)
 
 [2020. Yin, Leon & Jeffries, Adrianne. How we investigated Google’s results. The Markup](https://themarkup.org/google-the-giant/2020/07/28/how-we-analyzed-google-search-results-web-assay-parsing-tool)
 
