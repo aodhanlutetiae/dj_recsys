@@ -20,11 +20,11 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Chaslot, Guillaume. How algorithms can learn to discredit the media. Medium. 2018](https://guillaumechaslot.medium.com/how-algorithms-can-learn-to-discredit-the-media-d1360157c4fa)
 
-[Covington, Paul, Adams, Jay, Sargin, Emre. Deep Neural Networks for YouTube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+[Covington, Paul, Adams, Jay & Sargin, Emre. Deep Neural Networks for YouTube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
 [Diakopoulos, Nick. Investigating data platforms and algorithms. Data Journalism Handbook 2. 2021](https://datajournalism.com/read/handbook/two/investigating-data-platforms-and-algorithms/the-algorithms-beat-angles-and-methods-for-investigation)
 
-[Diakopoulos, Nicholas, Trielli, Daniel. How Journalists Can Systematically Critique Algorithms. Computation & Journalism Symposium 2020](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_14.pdf)
+[Diakopoulos, Nicholas & Trielli, Daniel. How Journalists Can Systematically Critique Algorithms. Computation & Journalism Symposium 2020](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_14.pdf)
 
 [Diakopoulos, Nick. Algorithmic Accountability: On the investigation of black boxes. CJR. 2014](https://www.cjr.org/tow_center_reports/algorithmic_accountability_on_the_investigation_of_black_boxes.php)
 
@@ -50,13 +50,13 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
 
-[Lewis & McCormick. How an ex YouTube insider investigated its secret algorithm. Guardian. 2018](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
+[Lewis, Paul & McCormick, Erin. How an ex YouTube insider investigated its secret algorithm. Guardian. 2018](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
 
 [Maheshwari. Sapna. On YouTube Kids, startling videos slip past filters. NY Times, 2017](https://www.nytimes.com/2017/11/04/business/media/youtube-kids-paw-patrol.html)
 
 [Marconi, Francesco, Daldrup, Rajiv & Tilland, Pant. Acing the algorithm beat. 2019. Nieman Lab. 2019](https://www.niemanlab.org/2019/02/acing-the-algorithmic-beat-journalisms-next-frontier/)
 
-[Milano, Silvia, Taddeo, Mariarosaria, Floridi, Luciano. Recommender systems and their ethical challenges. Oxford Internet Institute. 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378581)
+[Milano, Silvia, Taddeo, Mariarosaria & Floridi, Luciano. Recommender systems and their ethical challenges. Oxford Internet Institute. 2019](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3378581)
 
 [Nadeem. Moin. How YouTube recommends videos. Medium. 2018](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f)
 
@@ -76,7 +76,7 @@ Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender syst
 
 [Sharma. Aditya. Beginner tutorial: recommender systems in python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 
-[Stray, Jonathan, Adler, Steven, Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
+[Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
 
 [The redirect method: a blueprint for bypassing extremism. Website](https://redirectmethod.org/)
 
