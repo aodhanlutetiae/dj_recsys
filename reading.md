@@ -1,5 +1,9 @@
-# Investigating recommender systems: a general reading list for data journalists
+# Investigating recommender systems:
+# reading list for data journalists, with notes
 
+—[BACK TO MAIN PAGE](https://aodhanlutetiae.github.io/dj_recsys/)
+
+This reading list is slowly being commented since it gathers together very disparate readings. There are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need.
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020-08, Vol.140, p.104175-104175
 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
@@ -11,6 +15,8 @@ https://link.springer.com/article/10.1007%2Fs11229-020-02724-x
 [Banik. Hands on recommendation systems with Python. 2018](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
+
+[Chaslot, Guillaume. Algotransparency. Website](https://www.algotransparency.org/)
 
 [Chaslot, Guillaume. The Toxic Potential of YouTube’s Feedback Loop (CADE Tech Policy Workshop). 2020. Video. 27’](https://www.youtube.com/watch?v=Et2n0J0OeQ8&list=PLtmWHNX-gukK0HxaoW7a8ePhrd13KSQc4&index=4)
 
@@ -29,6 +35,7 @@ https://link.springer.com/article/10.1007%2Fs11229-020-02724-x
 Eriksson, Maria et al. Spotify Teardown: Inside the Black Box of Streaming Music. The MIT Press. 2019.
 
 [Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232)
+
 [Facebook. What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
 
 [Gizmodo. People you may know (Series). 2018](https://gizmodo.com/tag/people-you-may-know)
@@ -54,18 +61,18 @@ Holmes, Dawn E., “Recommender systems”. Big Data. A very short introduction.
 [Nadeem. Moin. How youtube recommends videos. Medium. 2018](https://towardsdatascience.com/how-youtube-recommends-videos-b6e003a5ab2f)
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The Extreme Right and Online Recommender Systems. Social science computer review. 2015-08, Vol.33 (4), p.459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
-[Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_crossref_primary_10_1177_0894439314555329)
 
 [Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
 
 [Ricci, Francesco, Rokach, Lior and Shapira, Bracha. Recommender systems. Introduction and challenges](https://link.springer.com/chapter/10.1007%2F978-1-4899-7637-6_1#enumeration)
 
-[Rieder, Bernhard. YouTube Data Tools (1.22). 2015](https://tools.digitalmethods.net/netvizz/youtube)
+[Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In: Ricci Francesco et al. (eds) Recommender Systems Handbook. Springer, 2015](https://doi.org/10.1007/978-1-4899-7637-6_1)
+
+[Rieder, Bernhard. YouTube Data Tools (1.22). 2015](https://tools.digitalmethods.net/netvizz/youtube/)
 
 Rogers, Richard. Youtube teardown. Doing Digital Methods. 2019, p. 249-59
 
-Sanchez Bocanegraet al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making (2017) 17:63 DOI 10.1186/s12911-017-0431-7
-Library: https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2
+Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making (2017) 17:63 DOI 10.1186/s12911-017-0431-7 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://journals.sagepub.com/doi/full/10.1177/1359183518820366)
 
