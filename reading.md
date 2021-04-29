@@ -1,6 +1,6 @@
 # reading list, with notes
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. It is slowly being commented since it gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if we have what you need
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. Commentary is slowly being added since the list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if we have what you need
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
@@ -72,7 +72,7 @@ Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender syst
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://journals.sagepub.com/doi/full/10.1177/1359183518820366)
 
-[Sharma. Aditya. Beginner tutorial: recommender systems in python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+[Sharma. Aditya. Beginner tutorial: recommender systems in Python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 
 [Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
 
