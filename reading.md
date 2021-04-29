@@ -1,6 +1,6 @@
-# reading list for data journalists, with notes
+# reading list, with notes
 
-*This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. It is slowly being commented since it gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need*
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. It is slowly being commented since it gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if we have what you need
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
@@ -30,7 +30,7 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Duhigg, Charles. How companies learn your secrets. New York Times. 2012](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp)
 
-Eriksson, Maria et al. Spotify Teardown: Inside the Black Box of Streaming Music. The MIT Press. 2019.
+Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside the black box of streaming music. The MIT Press. 2019, p. 115-47.
 
 [Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232)
 

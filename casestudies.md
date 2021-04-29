@@ -1,6 +1,6 @@
 # examples of journalists investigating machines
 
-*Journalistic investigations into what people are being served online*
+The subjects and the technology of the below investigations are varied but they're all here because they show  *how* journalists are investigating what is being served to people online, and black boxes in general
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
