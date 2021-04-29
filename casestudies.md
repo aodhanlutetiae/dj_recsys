@@ -12,6 +12,8 @@
 
 [Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/)
 
+[Ongoing. Chaslot, Guillaume. Algotransparency (YouTube)](https://www.algotransparency.org/)
+
 [Ongoing. Machine bias (series). Propublica](https://www.propublica.org/series/machine-bias/p1)
 
 [2020. Yin, Leon & Jeffries, Adrianne. How we investigated Google’s results. The Markup](https://themarkup.org/google-the-giant/2020/07/28/how-we-analyzed-google-search-results-web-assay-parsing-tool)

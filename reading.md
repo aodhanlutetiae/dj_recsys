@@ -1,6 +1,6 @@
 # reading list for data journalists, with notes
 
-*This reading list is slowly being commented since it gathers together very disparate material. There are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need*
+*This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. It is slowly being commented since it gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if you can find what you need*
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
@@ -13,8 +13,6 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 [Banik. Hands on recommendation systems with Python. 2018](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
-
-[Chaslot, Guillaume. Algotransparency. Website](https://www.algotransparency.org/)
 
 [Chaslot, Guillaume. The toxic potential of YouTube’s feedback loop. 2020. Video. 27’](https://www.youtube.com/watch?v=Et2n0J0OeQ8&list=PLtmWHNX-gukK0HxaoW7a8ePhrd13KSQc4&index=4)
 
@@ -64,13 +62,13 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
 
-[Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015](https://doi.org/10.1007/978-1-4899-7637-6_1)
+Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
 [Rieder, Bernhard. YouTube data tools (1.22). 2015](https://tools.digitalmethods.net/netvizz/youtube/)
 
 Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
-Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017 [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
+Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://journals.sagepub.com/doi/full/10.1177/1359183518820366)
 
