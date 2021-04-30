@@ -1,6 +1,6 @@
 # reading list, with notes
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. Commentary is slowly being added since the list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. So review the commentary to see if we have what you need
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. The list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. 
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
@@ -8,15 +8,9 @@ This reading list concentrates on YouTube and recommender systems, with some ite
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
-*— Scientific study on pro- and anti-vaccine videos recommended by YouTube*
-
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020-06-09](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
-*— Scientific study into the degree to which YouTube promotes material considered "extremist"*
-
 Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
-
-- *Hands-on introduction to building recommender systems for computer programmers*
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 
