@@ -8,15 +8,15 @@ This reading list concentrates on YouTube and recommender systems, with some ite
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
-- Scientific study on pro- and anti-vaccine videos recommended by YouTube
+*— Scientific study on pro- and anti-vaccine videos recommended by YouTube*
 
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020-06-09](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
-- Scientific study into the degree to which YouTube promotes material considered "extremist"
+*— Scientific study into the degree to which YouTube promotes material considered "extremist"*
 
 Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
-- Hands-on introduction to building recommender systems for computer programmers
+- *Hands-on introduction to building recommender systems for computer programmers*
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 
