@@ -1,6 +1,6 @@
-# reading list, with notes
+# reading list
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. The list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more. 
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. The list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more.
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
