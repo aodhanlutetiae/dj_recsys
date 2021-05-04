@@ -16,6 +16,10 @@ The subjects and the technology in the below investigations are varied but they'
 
 [Ongoing. Machine bias (series). Propublica](https://www.propublica.org/series/machine-bias/p1)
 
+[Ongoing. YouTube Tracking Exposed](https://youtube.tracking.exposed/)
+
+[Ongoing. Mozilla YouTube Regrets Reporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/)
+
 [2020. Yin, Leon & Jeffries, Adrianne. How we investigated Google’s results. The Markup](https://themarkup.org/google-the-giant/2020/07/28/how-we-analyzed-google-search-results-web-assay-parsing-tool)
 
 [2020. Yin, Leon, Jeffries, Adrianne & Mattu, Surya. How we examined Gmail’s treatment of political emails. The Markup](https://themarkup.org/google-the-giant/2020/02/26/show-your-work-wheres-my-email)
@@ -28,8 +32,16 @@ The subjects and the technology in the below investigations are varied but they'
 
 [2018. Algorithm Watch & Open Knowledge Foundation Deutschland. OpenSCHUFA](https://openschufa.de/english/)
 
+[2017-18. Gizmodo. People you may know (Series)](https://gizmodo.com/tag/people-you-may-know)
+
+[2017. Asher, Jeff & Arthur, Rob. Inside the algorithm that tries to predict gun violence in Chicago. New York Times](https://www.nytimes.com/2017/06/13/upshot/what-an-algorithm-reveals-about-life-on-chicagos-high-risk-list.html)
+
+[2017. Keller, Michael. The Apple 'kill list': what your I-phone doesn't want you to type](https://www.thedailybeast.com/the-apple-kill-list-what-your-iphone-doesnt-want-you-to-type)
+
 [2016. Angwin, Julia, Parris Terry & Mattu, Surya. What Facebook knows about you. Propublica](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 
 [2016. Angwin, Julia, Larson, Jeff, Mattu, Surya & Kirchner, Lauren. Machine bias (article). Propublica](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 [2012-14. Lawson, Jeff & Shaw, Al. Message machine: reverse engineering the 2012 campaign. Propublica](https://projects.propublica.org/emails/)
+
+[2012. Valentino-DeVries, Jennifer et al. Websites Vary Prices, Deals Based on Users' Information](https://www.wsj.com/articles/SB10001424127887323777204578189391813881534)

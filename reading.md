@@ -12,6 +12,8 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
+[Bergen, Mark. YouTube Executives Ignored Warnings, Letting Toxic Videos Run Rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
+
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 
 [Chaslot, Guillaume. The toxic potential of YouTube’s feedback loop. 2020. Video. 27’](https://www.youtube.com/watch?v=Et2n0J0OeQ8&list=PLtmWHNX-gukK0HxaoW7a8ePhrd13KSQc4&index=4)
@@ -35,8 +37,6 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 [Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232)
 
 [Facebook. What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
-
-[Gizmodo. People you may know (Series). 2018](https://gizmodo.com/tag/people-you-may-know)
 
 Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81
 
@@ -64,7 +64,8 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
-[Rieder, Bernhard. YouTube data tools (1.22). 2015](https://tools.digitalmethods.net/netvizz/youtube/)
+[Rieder, Bernhard. Introducing the YouTube data tools. 2015](http://thepoliticsofsystems.net/2015/05/exploring-youtube/)
+& [YouTube data tools (1.22)](https://tools.digitalmethods.net/netvizz/youtube/)
 
 Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
