@@ -12,7 +12,7 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
-[Bergen, Mark. YouTube Executives Ignored Warnings, Letting Toxic Videos Run Rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
+[Bergen, Mark. YouTube executives ignored warnings, letting toxic videos run rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
 
@@ -20,11 +20,13 @@ Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel
 
 [Chaslot, Guillaume. How algorithms can learn to discredit the media. Medium. 2018](https://guillaumechaslot.medium.com/how-algorithms-can-learn-to-discredit-the-media-d1360157c4fa)
 
-[Covington, Paul, Adams, Jay & Sargin, Emre. Deep Neural Networks for YouTube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
+[Chaslot, Guillaume. How YouTube's AI boosts alternative facts. 2017](https://guillaumechaslot.medium.com/how-youtubes-a-i-boosts-alternative-facts-3cc276f47cf7)
+
+[Covington, Paul, Adams, Jay & Sargin, Emre. Deep neural networks for YouTube recommendations. Google. 2016](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45530.pdf)
 
 [Diakopoulos, Nick. Investigating data platforms and algorithms. Data Journalism Handbook 2. 2021](https://datajournalism.com/read/handbook/two/investigating-data-platforms-and-algorithms/the-algorithms-beat-angles-and-methods-for-investigation)
 
-[Diakopoulos, Nicholas & Trielli, Daniel. How Journalists Can Systematically Critique Algorithms. Computation & Journalism Symposium 2020](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_14.pdf)
+[Diakopoulos, Nicholas & Trielli, Daniel. How journalists can systematically critique algorithms. Computation & Journalism Symposium 2020](https://cpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/d/53/files/2020/02/CJ_2020_paper_14.pdf)
 
 [Diakopoulos, Nick. Algorithmic Accountability: On the investigation of black boxes. CJR. 2014](https://www.cjr.org/tow_center_reports/algorithmic_accountability_on_the_investigation_of_black_boxes.php)
 
