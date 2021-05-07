@@ -8,6 +8,9 @@ are often quite simple, although the implementation (i.e. building them and gett
 ---
 
 — Basic recommending
+
 — Content-based filtering
+
 — Collaborative filtering
+
 — Neural networks
