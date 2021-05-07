@@ -6,3 +6,8 @@ are often quite simple, although the implementation (i.e. building them and gett
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
 ---
+
+— Basic recommending
+— Content-based filtering
+— Collaborative filtering
+— Neural networks
