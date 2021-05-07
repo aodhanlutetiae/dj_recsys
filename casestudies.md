@@ -24,7 +24,7 @@ The subjects and the technology in the below investigations are varied but they'
 
 [2020. Yin, Leon, Jeffries, Adrianne & Mattu, Surya. How we examined Gmail’s treatment of political emails. The Markup](https://themarkup.org/google-the-giant/2020/02/26/show-your-work-wheres-my-email)
 
-[2020. Ferguson, Sam, Khoo, Anna, Homer, Alex, Lynch, Paul & Sherlock, Pete. Cookies on council benefits pages. BBC Data Unit](https://www.bbc.co.uk/news/uk-50504621)
+[2020. Ferguson, Sam, Khoo, Anna, Homer, Alex, Lynch, Paul & Sherlock, Pete. Cookies on council benefits pages. BBC Data Unit](https://www.bbc.co.uk/news/uk-50504621) & [methodology breakdown](https://docs.google.com/document/d/10o7BgCyHqoLUqienJKkF8c0PYAahN04igRNT0oquj6c/edit)
 
 [2019. Wall Street Journal. Blue Feed, Red Feed: see liberal Facebook and conservative Facebook, side by side](http://graphics.wsj.com/blue-feed-red-feed/)
 

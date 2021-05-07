@@ -42,6 +42,8 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 
 Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81
 
+[Google. Course: recommendation systems](https://developers.google.com/machine-learning/recommendation)
+
 [Hallinan, Blake & Striphas, Ted. Recommended for you: The Netflix Prize and the production of algorithmic culture. New media and society. 2016](https://journals.sagepub.com/doi/pdf/10.1177/1461444814538646)
 
 [Hardesty, Larry. Explained: neural networks. MIT, 2017](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)
