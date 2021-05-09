@@ -75,7 +75,7 @@ Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
 Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
-[Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://journals.sagepub.com/doi/full/10.1177/1359183518820366)
+[Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 
 [Sharma. Aditya. Beginner tutorial: recommender systems in Python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 
