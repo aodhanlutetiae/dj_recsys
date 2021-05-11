@@ -36,7 +36,7 @@ The subjects and the technology in the below investigations are varied but they'
 
 [2017. Asher, Jeff & Arthur, Rob. Inside the algorithm that tries to predict gun violence in Chicago. New York Times](https://www.nytimes.com/2017/06/13/upshot/what-an-algorithm-reveals-about-life-on-chicagos-high-risk-list.html)
 
-[2017. Keller, Michael. The Apple 'kill list': what your I-phone doesn't want you to type](https://www.thedailybeast.com/the-apple-kill-list-what-your-iphone-doesnt-want-you-to-type)
+[2017. Keller, Michael. The Apple 'kill list': what your I-phone doesn't want you to type. The Daily Beast](https://www.thedailybeast.com/the-apple-kill-list-what-your-iphone-doesnt-want-you-to-type)
 
 [2016. Angwin, Julia, Parris Terry & Mattu, Surya. What Facebook knows about you. Propublica](https://www.propublica.org/article/breaking-the-black-box-what-facebook-knows-about-you)
 
