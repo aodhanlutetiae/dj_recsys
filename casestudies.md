@@ -1,10 +1,12 @@
 # examples of journalists investigating machines
 
-The subjects and the technology in the below investigations are varied but they're all here because they show  *how* journalists are investigating what is being served to people opaquely
+The subjects and the technology in the below investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely. The FT piece ("emotion business") is an overview report rather than an investigation but is extremely interesting.
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
 ---
+
+[2021. Rininsland, Lewis, Nevitt, Murgia, Ross, Wisniewska & Hannen. The emotion business: how companies are learning to read your mind. Financial Times](https://ig.ft.com/emotion-recognition/)
 
 [2021. Bayerischer Rundfunk. Objective or biased: on the questionable use of AI for job applications](https://web.br.de/interaktiv/ki-bewerbung/en/)
 
