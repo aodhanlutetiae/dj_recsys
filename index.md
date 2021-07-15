@@ -1,6 +1,6 @@
 # dj_recsys
 
-A collection of resources as part of an introduction to recommender systems, for journalists. Comments and recommendations welcome, to [@aodhanlutetiae](https://twitter.com/aodhanlutetiae/)
+A collection of resources as part of an introduction to recommender systems, for journalists. Comments and recommendations welcome to [@aodhanlutetiae](https://twitter.com/aodhanlutetiae/)
 
 ---
 
