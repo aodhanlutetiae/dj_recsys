@@ -2,10 +2,6 @@
 
 A collection of resources as part of an introduction to recommender systems, for journalists. Comments and recommendations welcome to [@aodhanlutetiae](https://twitter.com/aodhanlutetiae/)
 
-This is a markdown test:
-
-$$ \sqrt{4} $$
-
 ---
 
 - [Case studies: investigating machines](https://aodhanlutetiae.github.io/dj_recsys/casestudies)
