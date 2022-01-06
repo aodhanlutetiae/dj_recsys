@@ -66,6 +66,9 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
+[O'Neill, Cathy. Weapons of math destruction. Penguin, 2020]
+[Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
+
 [Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
 
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
@@ -80,6 +83,8 @@ Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender syst
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 
 [Sharma. Aditya. Beginner tutorial: recommender systems in Python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+
+[Smith, Ben. How Tiktok reads your mind. NY Times, 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
 
 [Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
 
