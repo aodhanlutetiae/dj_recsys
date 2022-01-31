@@ -6,6 +6,10 @@ The subjects and the technology in the below investigations are varied but they'
 
 ---
 
+[2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
+
+[2021. The emotion business: how companies are learning to read your mind. FT](https://ig.ft.com/emotion-recognition/)
+
 [2021. Faife, Corin & Ng, Alfred. After Repeatedly Promising Not to, Facebook Keeps Recommending Political Groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) with [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
 
 [2021. Rininsland, Lewis, Nevitt, Murgia, Ross, Wisniewska & Hannen. The emotion business: how companies are learning to read your mind. Financial Times](https://ig.ft.com/emotion-recognition/)
