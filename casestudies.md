@@ -1,4 +1,4 @@
-# investigating machines
+## investigating machines
 
 The subjects and the technology in the below investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely. The FT piece ("emotion business") is an overview report rather than an investigation but is extremely interesting.
 
