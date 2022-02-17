@@ -71,6 +71,8 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
 
+[Ovadja, Aviv. Can algorithmic recommender systems be good for democracy? Blogpost, 2022](https://www.belfercenter.org/publication/can-algorithmic-recommendation-systems-be-good-democracy-yes-chronological-feeds-may-be)
+
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
 [Rieder, Bernhard. Introducing the YouTube data tools. 2015](http://thepoliticsofsystems.net/2015/05/exploring-youtube/)
