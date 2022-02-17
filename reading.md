@@ -1,16 +1,16 @@
 # reading
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube. The list gathers together very disparate material; there are press articles, computer science textbooks, research articles, journalism case studies and more.
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube.
 
 *[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
 
 ---
 
-Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
+Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 | [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
 [Ada Lovelace Institute. The ethics of recommendation systems in public-service media. August 2021](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
 
-[Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020-06-09](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
+[Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
 Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
@@ -32,7 +32,7 @@ Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel
 
 [Diakopoulos, Nick. Algorithmic Accountability: On the investigation of black boxes. CJR. 2014](https://www.cjr.org/tow_center_reports/algorithmic_accountability_on_the_investigation_of_black_boxes.php)
 
-[Diresta, Renee. Up Next. A better recommender system. Wired. 2018](https://www.wired.com/story/creating-ethical-recommendation-engines/)
+[Diresta, Renee. Up Next: a better recommender system. Wired. 2018](https://www.wired.com/story/creating-ethical-recommendation-engines/)
 
 [Duhigg, Charles. How companies learn your secrets. New York Times. 2012](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp)
 
@@ -66,12 +66,7 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
-[O'Neill, Cathy. Weapons of math destruction. Penguin, 2020]
-[Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
-
-[Osinga, Douwe. Deep learning cookbook. O’Reilly, 2018](https://learning.oreilly.com/library/view/deep-learning-cookbook/9781491995839/#toc)
-
-[Ovadja, Aviv. Can algorithmic recommender systems be good for democracy? Blogpost, 2022](https://www.belfercenter.org/publication/can-algorithmic-recommendation-systems-be-good-democracy-yes-chronological-feeds-may-be)
+O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 | [Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
 
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
@@ -80,7 +75,7 @@ Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricc
 
 Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
-Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
+Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017 | [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 
