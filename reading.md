@@ -6,13 +6,13 @@ This reading list concentrates on YouTube and recommender systems, with some ite
 
 ---
 
-Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 | [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
+Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
 [Ada Lovelace Institute. The ethics of recommendation systems in public-service media. August 2021](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
 
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
-Banik. Hands on recommendation systems with Python. 2018. [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
+Banik. Hands on recommendation systems with Python. 2018 — [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
 [Bergen, Mark. YouTube executives ignored warnings, letting toxic videos run rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
 
@@ -66,9 +66,9 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
-O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 | [Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
+O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
 
-Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015. [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
+Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015 — [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
 [Rieder, Bernhard. Introducing the YouTube data tools. 2015](http://thepoliticsofsystems.net/2015/05/exploring-youtube/)
 & [YouTube data tools (1.22)](https://tools.digitalmethods.net/netvizz/youtube/)
