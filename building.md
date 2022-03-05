@@ -13,4 +13,8 @@ are often quite simple, although the implementation (i.e. building them and gett
 
 — Collaborative filtering
 
-— Neural networks
+_ Hybrid
+
+---
+
+[Using hybrid recommender system to personalise push notification. Adam Gajtkowski (Financial Times data scientist)](https://www.youtube.com/watch?v=C5hhBpJypfI)
