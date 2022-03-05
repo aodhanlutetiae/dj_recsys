@@ -2,8 +2,6 @@
 
 This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube.
 
-*[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
-
 ---
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
@@ -75,7 +73,7 @@ Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricc
 
 Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
-Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017 | [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
+Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 

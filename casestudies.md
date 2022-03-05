@@ -2,8 +2,6 @@
 
 The subjects and the technology in these investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely.
 
-*[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
-
 ---
 
 [Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/)

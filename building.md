@@ -3,8 +3,6 @@
 An overview of the main approaches to making machines that recommend. The principles behind basic recommenders
 are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get quite complicated. More recent approaches are just downright complicated
 
-*[Back to main page](https://aodhanlutetiae.github.io/dj_recsys/)*
-
 ---
 
 — Basic recommending
@@ -13,8 +11,4 @@ are often quite simple, although the implementation (i.e. building them and gett
 
 — Collaborative filtering
 
-_ Hybrid
-
----
-
-[Using hybrid recommender system to personalise push notification. Adam Gajtkowski (Financial Times data scientist)](https://www.youtube.com/watch?v=C5hhBpJypfI)
+— Hybrid
