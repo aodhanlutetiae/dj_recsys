@@ -10,8 +10,6 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
-Banik. Hands on recommendation systems with Python. 2018 — [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
-
 [Bergen, Mark. YouTube executives ignored warnings, letting toxic videos run rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
 
 [Brindle, James. Something is wrong on the internet. Medium. 2017](https://medium.com/@jamesbridle/something-is-wrong-on-the-internet-c39c471271d2)
@@ -41,8 +39,6 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 [Facebook. What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
 
 Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81
-
-[Google. Course: recommendation systems](https://developers.google.com/machine-learning/recommendation)
 
 [Hallinan, Blake & Striphas, Ted. Recommended for you: The Netflix Prize and the production of algorithmic culture. New media and society. 2016](https://journals.sagepub.com/doi/pdf/10.1177/1461444814538646)
 
@@ -76,8 +72,6 @@ Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
-
-[Sharma. Aditya. Beginner tutorial: recommender systems in Python. Datacamp. 2020](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 
 [Smith, Ben. How Tiktok reads your mind. NY Times, 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
 
