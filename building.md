@@ -1,7 +1,6 @@
 ## how to make a recommender system
 
-An overview of the main approaches to making machines that recommend. The principles behind basic recommenders
-are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get quite complicated. More recent approaches are just downright complicated
+The principles behind basic recommenders are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get quite complicated. More recent approaches are just downright complicated. Below are some guides to how to make recommenders
 
 - Basic recommending
 - Content-based filtering
