@@ -1,10 +1,10 @@
 # reading
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside of YouTube.
+This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside YouTube.
 
 ---
 
-Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
+Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
 [Ada Lovelace Institute. The ethics of recommendation systems in public-service media. August 2021](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
 
@@ -30,15 +30,15 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Diresta, Renee. Up Next: a better recommender system. Wired. 2018](https://www.wired.com/story/creating-ethical-recommendation-engines/)
 
+[Dolan, Peter et al. Personalized news recommendation based on click behavior. Google. 2009?](https://stanford.app.box.com/s/ooa2yjezp37f8l8fjxitp3yvnz2zcbe0)
+
 [Duhigg, Charles. How companies learn your secrets. New York Times. 2012](https://www.nytimes.com/2012/02/19/magazine/shopping-habits.html?pagewanted=1&_r=1&hp)
 
 Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside the black box of streaming music. The MIT Press. 2019, p. 115-47.
 
-[Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232)
+[Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232) & [What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
 
-[Facebook. What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
-
-Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81
+Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912009878302420)
 
 [Hallinan, Blake & Striphas, Ted. Recommended for you: The Netflix Prize and the production of algorithmic culture. New media and society. 2016](https://journals.sagepub.com/doi/pdf/10.1177/1461444814538646)
 
@@ -60,23 +60,21 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
-O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
+O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
 
-Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015 — [Library](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
+Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
 [Rieder, Bernhard. Introducing the YouTube data tools. 2015](http://thepoliticsofsystems.net/2015/05/exploring-youtube/)
 & [YouTube data tools (1.22)](https://tools.digitalmethods.net/netvizz/youtube/)
 
 Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
-Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_doaj_primary_oai_doaj_org_article_558065e9e7c141ff970045e10816e7d2)
+[Sanchez Bocanegra et al. HealthRecSys: A semantic content-based recommender system to complement health videos. BMC Medical Informatics and Decision Making. p. 17-63. 2017](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0431-7)
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 
 [Smith, Ben. How Tiktok reads your mind. NY Times, 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
 
 [Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
-
-[The redirect method: a blueprint for bypassing extremism. Website](https://redirectmethod.org/)
 
 [Thomson, Clive. YouTube’s plot to silence conspiracy theories. Wired. 2020](https://www.wired.com/story/youtube-algorithm-silence-conspiracy-theories/)

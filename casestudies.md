@@ -14,11 +14,11 @@ The subjects and the technology in these investigations are varied but they're a
 
 ---
 
-[2021. Mozilla YouTube Regrets Reporter. Study report](https://foundation.mozilla.org/en/youtube/findings/)
+[2021. Mozilla. YouTube Regrets Reporter. Study report](https://foundation.mozilla.org/en/youtube/findings/)
 
 [2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
 
-[2021. Faife, Corin & Ng, Alfred. After Repeatedly Promising Not to, Facebook Keeps Recommending Political Groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
+[2021. Faife, Corin & Ng, Alfred. After repeatedly promising not to, Facebook keeps recommending political groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
 
 [2021. Rininsland, Lewis, Nevitt, Murgia, Ross, Wisniewska & Hannen. The emotion business: how companies are learning to read your mind. Financial Times](https://ig.ft.com/emotion-recognition/)
 

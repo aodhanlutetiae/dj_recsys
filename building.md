@@ -2,14 +2,9 @@
 
 The principles behind basic recommenders are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get quite complicated. More recent approaches are just downright complicated. Below are some guides to how to make recommenders
 
-- Basic recommending
-- Content-based filtering
-- Collaborative filtering
-- Hybrid
-
 ---
 
-Banik. Hands on recommendation systems with Python. 2018 — [Library](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
+Banik. Hands on recommendation systems with Python. 2018. [Library resource](https://whel-primo.hosted.exlibrisgroup.com/permalink/f/1tfrs8a/44CAR_ALMA51125380190002420)
 
 [Google. Course: recommendation systems](https://developers.google.com/machine-learning/recommendation)
 
