@@ -12,7 +12,9 @@ The subjects and the technology in these investigations are varied but they're a
 
 [Ongoing. YouTube Tracking Exposed](https://youtube.tracking.exposed/)
 
-[Ongoing. Mozilla YouTube Regrets Reporter](https://foundation.mozilla.org/en/campaigns/regrets-reporter/)
+---
+
+[2021. Mozilla YouTube Regrets Reporter](https://foundation.mozilla.org/en/youtube/findings/)
 
 [2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
 
