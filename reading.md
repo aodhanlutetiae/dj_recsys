@@ -38,7 +38,7 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 
 [Facebook. What are Facebook recommendations? 2020](https://help.instagram.com/313829416281232) & [What are Instagram recommendations? 2020](https://www.facebook.com/help/1257205004624246)
 
-Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912009878302420)
+[Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81](https://www.cambridge.org/core/books/cambridge-companion-to-music-in-digital-culture/shaping-the-stream-techniques-and-troubles-of-algorithmic-recommendation/67A48CE833167EA679D3ACBF558D3F42)
 
 [Hallinan, Blake & Striphas, Ted. Recommended for you: The Netflix Prize and the production of algorithmic culture. New media and society. 2016](https://journals.sagepub.com/doi/pdf/10.1177/1461444814538646)
 
@@ -60,7 +60,7 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [O’Callaghan, Derek et al. Down the (White) Rabbit Hole: The extreme right and online recommender systems. Social science computer review. 2015, 33/4, p. 459-78](https://journals.sagepub.com/doi/full/10.1177/0894439314555329)
 
-O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
+O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library resource (online & hard copy)](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
 
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
