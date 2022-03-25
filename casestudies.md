@@ -4,7 +4,7 @@ The subjects and the technology in these investigations are varied but they're a
 
 ---
 
-[Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/)
+<!-- [Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/) -->
 
 [Ongoing. Chaslot, Guillaume. Algotransparency (YouTube)](https://www.algotransparency.org/)
 
@@ -14,11 +14,13 @@ The subjects and the technology in these investigations are varied but they're a
 
 ---
 
-[2021. Mozilla. YouTube Regrets Reporter. Study report](https://foundation.mozilla.org/en/youtube/findings/)
+[2021. YouTube Regrets Reporter. Study report. Mozilla](https://foundation.mozilla.org/en/youtube/findings/)
 
 [2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
 
-[2021. Faife, Corin & Ng, Alfred. After repeatedly promising not to, Facebook keeps recommending political groups](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
+[2021. Faife, Corin & Ng, Alfred. After repeatedly promising not to, Facebook keeps recommending political groups. The markup](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
+
+[2021. Sankin, Aaron & Yin, Leon. Google Blocks Advertisers from Targeting Black Lives Matter YouTube Videos. The markup](https://themarkup.org/google-the-giant/2021/04/09/google-blocks-advertisers-from-targeting-black-lives-matter-youtube-videos)
 
 [2021. Rininsland, Lewis, Nevitt, Murgia, Ross, Wisniewska & Hannen. The emotion business: how companies are learning to read your mind. Financial Times](https://ig.ft.com/emotion-recognition/)
 
