@@ -44,6 +44,8 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 
 [Hardesty, Larry. Explained: neural networks. MIT, 2017](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)
 
+[Helberger, Natali. "On the democratic role of news recommenders". *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also in Thurman, Neil (ed.). *Algorithms, Automation & News*. Routledge, 2021](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_informaworld_taylorfrancis_310_1080_21670811_2019_1623700)
+
 Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP VSI. 2017, p. 80-89
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
