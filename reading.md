@@ -50,6 +50,8 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
 
+[Leibowicz, Claire & Stephan, Adriana. Local Newsrooms Should Adopt AI Ethics as They Adopt AI: 5 Recommendations](https://medium.com/partnership-on-ai/local-newsrooms-should-adopt-ai-ethics-as-they-adopt-ai-5-recommendations-ee1496ea211e)
+
 [Lewis, Paul & McCormick, Erin. How an ex YouTube insider investigated its secret algorithm. Guardian. 2018](https://www.theguardian.com/technology/2018/feb/02/youtube-algorithm-election-clinton-trump-guillaume-chaslot)
 
 [Maheshwari. Sapna. On YouTube Kids, startling videos slip past filters. NY Times, 2017](https://www.nytimes.com/2017/11/04/business/media/youtube-kids-paw-patrol.html)
