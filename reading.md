@@ -6,8 +6,6 @@ This reading list concentrates on YouTube and recommender systems, with some ite
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
-[Ada Lovelace Institute. The ethics of recommendation systems in public-service media. August 2021](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
-
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
 [Bergen, Mark. YouTube executives ignored warnings, letting toxic videos run rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
@@ -47,6 +45,8 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 [Helberger, Natali. "On the democratic role of news recommenders". *Digital Journalism: algorithms, automation & news*, 7/8 (2019), p. 993-1012. Also in Thurman, Neil (ed.). *Algorithms, Automation & News*. Routledge, 2021](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/b7291a/cdi_informaworld_taylorfrancis_310_1080_21670811_2019_1623700)
 
 Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP VSI. 2017, p. 80-89
+
+[Jones, Elliot. Inform, educate,entertain...and recommend? Exploring the use and ethics of recommendation systems in public service media. Ada Lovelace Institute, November 2022.](https://www.adalovelaceinstitute.org/wp-content/uploads/2022/11/Ada-Lovelace-Institute-Inform-Educate-Entertain...and-Recommend-Nov-2022.pdf) [See also](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
 
