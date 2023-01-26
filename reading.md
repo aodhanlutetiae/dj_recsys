@@ -46,7 +46,7 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 
 Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP VSI. 2017, p. 80-89 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912109076102420)
 
-[Jones, Elliot. Inform, educate, entertain...and recommend? Exploring the use and ethics of recommendation systems in public service media [BBC]. Ada Lovelace Institute, November 2022.](https://www.adalovelaceinstitute.org/wp-content/uploads/2022/11/Ada-Lovelace-Institute-Inform-Educate-Entertain...and-Recommend-Nov-2022.pdf) [See also](https://www.adalovelaceinstitute.org/project/ethics-recommendation-systems-public-service-media/)
+[Jones, Elliot. Inform, educate, entertain...and recommend? Exploring the use and ethics of recommendation systems in public service media [BBC]. Ada Lovelace Institute, November 2022.](https://www.adalovelaceinstitute.org/wp-content/uploads/2022/11/Ada-Lovelace-Institute-Inform-Educate-Entertain...and-Recommend-Nov-2022.pdf)
 
 [Kuosmanen, Ville. Improving the explainability of user-facing recommender systems. Thesis, St Andrews. 2020](https://villekuosmanen.com/dissertation.pdf)
 
