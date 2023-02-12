@@ -38,6 +38,8 @@ Eriksson, Maria et al. How does Spotify package music? Spotify teardown: inside 
 
 [Goldschmitt, KE & Seaver, Nick. Shaping the stream: techniques and troubles of algorithmic recommendation. In Cook, Nicholas et al. The Cambridge Companion to Music in Digital Culture. 2019, p. 63-81](https://www.cambridge.org/core/books/cambridge-companion-to-music-in-digital-culture/shaping-the-stream-techniques-and-troubles-of-algorithmic-recommendation/67A48CE833167EA679D3ACBF558D3F42)
 
+[GOV.UK. Research into the impact of streaming services’ algorithms on music consumption. Centre for data ethics and innovation, (Dept. for science, innovation and technology), Feb 2023](https://www.gov.uk/government/publications/research-into-the-impact-of-streaming-services-algorithms-on-music-consumption?utm_medium=email&utm_campaign=govuk-notifications-topic&utm_source=4467ea3e-9776-47fa-bf1e-54b3bf22079b&utm_content=weekly)
+
 [Hallinan, Blake & Striphas, Ted. Recommended for you: The Netflix Prize and the production of algorithmic culture. New media and society. 2016](https://journals.sagepub.com/doi/pdf/10.1177/1461444814538646)
 
 [Hardesty, Larry. Explained: neural networks. MIT, 2017](https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414)
