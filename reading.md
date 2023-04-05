@@ -1,8 +1,5 @@
 # reading
 
-This reading list concentrates on YouTube and recommender systems, with some items on how journalists can investigate black boxes and recommenders outside YouTube.
-
----
 
 Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommendations of vaccine videos. International journal of medical informatics (Shannon, Ireland), 2020, Vol. 8/140 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/djvk49/TN_cdi_proquest_miscellaneous_2407586947)
 
@@ -84,3 +81,6 @@ Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 [Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
 
 [Thomson, Clive. YouTube’s plot to silence conspiracy theories. Wired. 2020](https://www.wired.com/story/youtube-algorithm-silence-conspiracy-theories/)
+
+Thurman, Neil et al. (eds.). *Algorithms, Automation & News*. Routledge, 2021. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9912090193502420)
+See also *Digital Journalism*, vol 7/8, 2019. [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911434057802420)
