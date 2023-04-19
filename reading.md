@@ -65,6 +65,8 @@ Holmes, Dawn E., Recommender systems. Big Data: a very short introduction. OUP V
 
 O'Neill, Cathy. Weapons of math destruction. Penguin, 2020 — [Library resource (online & hard copy)](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/1fseqj3/alma9911866618102420)
 
+Pariser, Eli. The filter bubble: what the internet is hiding from you. Penguin, 2011 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/44WHELF_CAR/c1t5b/alma9910684463402420)
+
 Ricci Francesco et al. Recommender Systems: Introduction and Challenges. In Ricci Francesco et al. (eds.) Recommender systems handbook. Springer, 2015 — [Library resource](https://librarysearch.cardiff.ac.uk/permalink/f/1tfrs8a/44CAR_ALMA51102120490002420)
 
 [Rieder, Bernhard. Introducing the YouTube data tools. 2015](http://thepoliticsofsystems.net/2015/05/exploring-youtube/)
