@@ -2,18 +2,6 @@
 
 The subjects and the technology in these investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely.
 
----
-
-<!-- [Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/) -->
-
-[Ongoing. Chaslot, Guillaume. Algotransparency (YouTube)](https://www.algotransparency.org/)
-
-[Ongoing. Machine bias (series). Propublica](https://www.propublica.org/series/machine-bias/p1)
-
-[Ongoing. YouTube Tracking Exposed](https://youtube.tracking.exposed/)
-
----
-
 [2023. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Lighthouse Reports methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
 
 [2022. Karen Hao. AI Colonialism (series)](https://www.technologyreview.com/supertopic/ai-colonialism-supertopic/)
@@ -57,3 +45,15 @@ The subjects and the technology in these investigations are varied but they're a
 [2012-14. Lawson, Jeff & Shaw, Al. Message machine: reverse engineering the 2012 campaign. Propublica](https://projects.propublica.org/emails/)
 
 [2012. Valentino-DeVries, Jennifer et al. Websites Vary Prices, Deals Based on Users' Information](https://www.wsj.com/articles/SB10001424127887323777204578189391813881534)
+
+---
+
+<!-- [Ongoing. Adobserver. NYU. Browser plugin](https://adobserver.org/) -->
+
+[Ongoing. Chaslot, Guillaume. Algotransparency (YouTube)](https://www.algotransparency.org/)
+
+[Ongoing. Machine bias (series). Propublica](https://www.propublica.org/series/machine-bias/p1)
+
+[Ongoing. YouTube Tracking Exposed](https://youtube.tracking.exposed/)
+
+---
