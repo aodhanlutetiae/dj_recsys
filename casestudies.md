@@ -16,6 +16,8 @@ The subjects and the technology in these investigations are varied but they're a
 
 [2023. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Lighthouse Reports methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
 
+[2022. Karen Hao. AI Colonialism (series)](https://www.technologyreview.com/supertopic/ai-colonialism-supertopic/)
+
 [2021. YouTube Regrets Reporter. Study report. Mozilla](https://foundation.mozilla.org/en/youtube/findings/)
 
 [2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
