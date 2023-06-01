@@ -78,6 +78,8 @@ Rogers, Richard. YouTube teardown. Doing Digital Methods. 2019, p. 249-59
 
 [Seaver, Nick. Captivating algorithms: Recommender systems as traps. Journal of Material Culture. 24/4, 2019. p. 421–36](https://www.anthropology.uci.edu/publications/Nick%20Seaver%20Journal%20of%20Material%20Culture.pdf)
 
+Seaver, Nick. Computing taste. University of Chicago Press, 2022
+
 [Smith, Ben. How Tiktok reads your mind. NY Times, 2021](https://www.nytimes.com/2021/12/05/business/media/tiktok-algorithm.html)
 
 [Stray, Jonathan, Adler, Steven & Hadfield-Menell, Dylan. What are you optimizing for? Aligning recommender systems with human values. 2020](https://participatoryml.github.io/papers/2020/42.pdf)
