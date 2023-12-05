@@ -2,7 +2,9 @@
 
 The subjects and the technology in these investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely.
 
-[2023. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Lighthouse Reports methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
+[2023. Lighthouse Report. France's digital inquisition (Caisse nationale des allocations familiales.](https://www.lighthousereports.com/investigation/frances-digital-inquisition/) & Methodology(https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
+
+[2023. Lighthouse Report. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Lighthouse Reports methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
 
 [2022. Karen Hao. AI Colonialism (series)](https://www.technologyreview.com/supertopic/ai-colonialism-supertopic/)
 
