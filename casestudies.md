@@ -2,9 +2,9 @@
 
 The subjects and the technology in these investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely.
 
-[2023. Lighthouse Report. France's digital inquisition (Caisse nationale des allocations familiales.](https://www.lighthousereports.com/investigation/frances-digital-inquisition/) & Methodology(https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
+[2023. Lighthouse Reports. France's digital inquisition (Caisse nationale des allocations familiales)](https://www.lighthousereports.com/investigation/frances-digital-inquisition/) & [Methodology](https://www.lighthousereports.com/methodology/how-we-investigated-frances-mass-profiling-machine/)
 
-[2023. Lighthouse Report. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Lighthouse Reports methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
+[2023. Lighthouse Reports. Inside the suspicion machine (Rotterdam's welfare fraud algorithm)](https://www.wired.com/story/welfare-state-algorithms/) & [Methodology](https://www.lighthousereports.com/suspicion-machines-methodology/)
 
 [2022. Karen Hao. AI Colonialism (series)](https://www.technologyreview.com/supertopic/ai-colonialism-supertopic/)
 
@@ -12,7 +12,7 @@ The subjects and the technology in these investigations are varied but they're a
 
 [2021. Inside TikTok's algorithm. WSJ. Video](https://www.youtube.com/watch?v=nfczi2cI6Cs) & [article](https://www.wsj.com/articles/tiktok-algorithm-video-investigation-11626877477)
 
-[2021. Faife, Corin & Ng, Alfred. After repeatedly promising not to, Facebook keeps recommending political groups. The markup](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
+[2021. Faife, Corin & Ng, Alfred. After repeatedly promising not to, Facebook keeps recommending political groups. The Markup](https://themarkup.org/citizen-browser/2021/06/24/after-repeatedly-promising-not-to-facebook-keeps-recommending-political-groups-to-its-users) & [data](https://github.com/the-markup/citizen-browser-fb-still-recommends-political-groups)
 
 [2021. Sankin, Aaron & Yin, Leon. Google Blocks Advertisers from Targeting Black Lives Matter YouTube Videos. The markup](https://themarkup.org/google-the-giant/2021/04/09/google-blocks-advertisers-from-targeting-black-lives-matter-youtube-videos)
 
