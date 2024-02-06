@@ -4,7 +4,7 @@ Abul-Fottouh, Deena et al. Examining algorithmic biases in YouTube’s recommend
 
 [Alfano, Mark et al. Technologically scaffolded atypical cognition: the case of YouTube’s recommender system. Synthese (Dordrecht), 2020](https://link.springer.com/article/10.1007%2Fs11229-020-02724-x)
 
-[Bayerischer Rundfunk. Blackbox reporting. December 2023](https://interaktiv.br.de/paper/AI-Automation-Lab_Blackbox-Reporting_EN.pdf)
+[Bayerischer Rundfunk. Blackbox reporting. December 2023](https://interaktiv.br.de/paper/AI-Automation-Lab_Blackbox-Reporting_EN.pdf) & [auf Deutsch](https://interaktiv.br.de/paper/AI-Automation-Lab_Blackbox-Reporting.pdf)
 
 [Bergen, Mark. YouTube executives ignored warnings, letting toxic videos run rampant, 2019](https://www.bloomberg.com/news/features/2019-04-02/youtube-executives-ignored-warnings-letting-toxic-videos-run-rampant)
 
