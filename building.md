@@ -1,6 +1,6 @@
 ## how to make a recommender system
 
-The principles behind basic recommenders are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get quite complicated. More recent approaches are specialised areas of data science. Below are some guides to how to make recommenders
+The principles behind basic recommenders are often quite simple, although the implementation (i.e. building them and getting them running in real life) can quickly get complicated. More recent approaches are specialised areas of data science. Here are some simple guides to how to make recommenders.
 
 ---
 
