@@ -2,6 +2,8 @@
 
 The subjects and the technology in these investigations are varied but they're all here because they show *how* journalists are investigating what is being served to people opaquely.
 
+[2024. Bloomberg. GPT shows racial bias](https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/)
+
 [2024. Lighthouse Reports. Sweden's suspicion machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
 
 [2024. El Confidencial. An algorithm defines the future of prisoners in Catalonia: now we know how it works (in Spanish)](https://www.journalismfund.eu/supported-projects/europes-decision-machines)
